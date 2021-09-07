@@ -1,3 +1,6 @@
+# Important
+I've be focusing on the base of this project [here](https://github.com/OpenQueue/Base), don't expect any of this to work until thats completed.
+
 ## Code layout
 
 ### Linting
